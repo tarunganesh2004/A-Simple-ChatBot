@@ -95,8 +95,9 @@ The `intents.json` file defines the different categories of user intents and the
       "tag": "payments",
       "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?"],
       "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
-    },
+    }
     etc
+]
 }
 ```
 ## Model Training
