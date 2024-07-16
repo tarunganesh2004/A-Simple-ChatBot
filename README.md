@@ -33,8 +33,8 @@ This repository contains a simple chatbot built using TensorFlow and tflearn. Th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/tarunganesh2004/A-Simple-ChatBot.git
+    cd A-Simple-ChatBot
     ```
 
 2. Install the required Python packages:
@@ -136,3 +136,4 @@ response('Do you accept credit cards?')
 
 ## LICENSE
 
+- This project is licensed under the MIT License - see the LICENSE file for details.
